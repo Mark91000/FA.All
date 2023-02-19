@@ -1,0 +1,96 @@
+13:26:01 От Ilias Martis (temp)  кому  Все:
+	Никаких внешних не знаем.
+13:34:19 От Ilias Martis (temp)  кому  Все:
+	У меня сегодня беда с микрофоном. Сели наушники.
+13:34:51 От Starta University 1  кому  Все:
+	Способы добавления изображений на веб-сайт
+	
+	(1) По тегу IMG - для контента
+	(2) Через CSS BACKGROUND - для декораций
+13:40:27 От Starta University 1  кому  Все:
+	СПОСОБЫ ПОДКЛЮЧЕНИЯ CSS
+	
+	(1) Через внешний файл (по тегу LINK)
+	(2) Через контейнер STYLE
+	(3) Через атрибут STYLE
+13:45:56 От Ilias Martis (temp)  кому  Все:
+	либо auto либо 100%
+13:52:09 От Starta University 1  кому  Все:
+	https://developer.mozilla.org/ru/docs/Learn/CSS/CSS_layout/Flexbox
+13:54:05 От Starta University 1  кому  Все:
+	https://developer.mozilla.org/ru/docs/Glossary/Semantics
+13:57:02 От Ilias Martis (temp)  кому  Все:
+	+
+13:57:12 От Alina Jakuhina  кому  Все:
+	+
+14:04:30 От Ilias Martis (temp)  кому  Все:
+	+
+14:06:27 От Nadiia Meyer  кому  Все:
+	-
+14:06:27 От Элина Сиротина  кому  Все:
+	-
+14:06:28 От Ivan Zubenko  кому  Все:
+	-
+14:06:28 От Katja  кому  Все:
+	+
+14:06:30 От Mark  кому  Все:
+	-
+14:06:40 От Ульяна Шевчук  кому  Все:
+	_
+14:06:46 От Alina Jakuhina  кому  Все:
+	+
+14:07:29 От Sergey Tankeev  кому  Все:
+	+
+14:10:54 От Элина Сиротина  кому  Все:
+	Зачем спрашивать, кто не успел, если все-равно дальше идете?))
+14:12:16 От Starta University 1  кому  Все:
+	.left {
+	            display: flex;
+	            justify-content: center;
+	            align-items: center;
+	        }
+	        form {
+	            text-align: center;
+	            background: rgb(232, 232, 232);
+	            padding: 3rem 1rem;
+	            border-radius: 8px;
+	        }
+	
+	        .row {
+	            margin: 1rem 0;
+	        }
+	        input {
+	            border: none;
+	            font-size: 1.25rem;
+	            padding: 1rem;
+	            border-radius: 8px;
+	        }
+	        input:focus {
+	            outline: none;
+	        }
+14:15:35 От Katja  кому  Все:
+	+
+14:15:39 От Alina Jakuhina  кому  Все:
+	+
+14:15:39 От Наталья Скиба  кому  Все:
+	+
+14:15:42 От Alexey Vershinin  кому  Все:
+	+
+14:15:42 От Ilias Martis (temp)  кому  Все:
+	++
+14:15:48 От Alexey Vershinin  кому  Все:
+	++
+14:15:55 От Oksana Molchanova  кому  Все:
+	++
+14:15:58 От Nadiia Meyer  кому  Все:
+	++
+14:16:01 От Наталья Скиба  кому  Все:
+	++
+14:16:47 От Alina Jakuhina  кому  Все:
+	++
+14:28:35 От Starta University 1  кому  Все:
+	https://developer.mozilla.org/ru/docs/Learn/CSS/CSS_layout/Flexbox
+	
+	https://developer.mozilla.org/ru/docs/Web/CSS/Using_CSS_custom_properties
+	
+	https://developer.mozilla.org/ru/docs/Web/CSS/CSS_Selectors

@@ -1,0 +1,98 @@
+09:34:34 От Alina Jakuhina  кому  Все:
+	+
+09:35:02 От Elena Reibling  кому  Все:
+	+
+09:39:00 От Alexey Vershinin  кому  Все:
+	+
+09:39:53 От Katja  кому  Все:
+	+
+09:53:58 От Элина Сиротина  кому  Все:
+	Коллеги, если перед классом точка подчеркивается красным, что это может быть?
+09:54:30 От Katja  кому  Все:
+	что-то не то
+09:54:39 От Katja  кому  Все:
+	выложите этот кусочек
+09:54:49 От Наталья Скиба  кому  Все:
+	может не хватает фигурной скопки
+09:54:51 От Элина Сиротина  кому  Все:
+	Но при этом код совпадает
+09:55:52 От Katja  кому  Все:
+	выложите сюда этот класс, вместе посмотрим
+09:55:55 От Элина Сиротина  кому  Все:
+	Добавила скобку, но все-равно "ругается":)
+09:56:57 От Ivan Zubenko  кому  Все:
+	+
+09:57:03 От Evgenia Stamatova  кому  Все:
+	+
+09:57:22 От Элина Сиротина  кому  Все:
+	+
+10:13:23 От Наталья Скиба  кому  Все:
+	+
+10:13:38 От GIORGI BAKRADZE  кому  Все:
+	+
+10:16:36 От Элина Сиротина  кому  Все:
+	Домашку часов 6 делала, но справилась:)
+11:20:48 От Ilias Martis (temp)  кому  Все:
+	+
+11:21:02 От Наталья Скиба  кому  Все:
+	+
+11:21:17 От Alina Jakuhina  кому  Все:
+	+
+11:21:22 От Alexey Vershinin  кому  Все:
+	+
+11:38:57 От Starta University 1  кому  Все:
+	<p> <a href="https://www.google.com/">Lorem</a> ipsum dolor sit amet consectetur adipisicing elit. Dolore accusamus iure dolores ab reprehenderit perferendis. Corporis dolor amet optio labore quas molestiae, nemo expedita voluptatibus placeat! Sequi ducimus facilis modi?</p>		    <form action="">	        <input type="text" class="textinput">	    </form>
+11:40:18 От Starta University 1  кому  Все:
+	*{	    margin: 0;	    padding: 0;	}		body{	    padding: 30px;	}		p{	    font-size: 20px;	}		a{	    text-decoration: none;	    color: red;	}
+11:40:26 От Ivan Zubenko  кому  Все:
+	+
+11:40:29 От Starta University 1  кому  Все:
+	.textinput{	    border: 1px solid black;	    width: 300px;	    height: 60px;	    font-size: 18px;	    padding: 0 10px;	}
+11:42:05 От Elena Reibling  кому  Все:
+	+
+11:45:57 От Sergey Tankeev  кому  Все:
+	+
+11:46:54 От Элина Сиротина  кому  Все:
+	+
+11:47:56 От Элина Сиротина  кому  Все:
+	Не хочет и с другим цветом:)
+12:05:12 От Starta University 1  кому  Все:
+	https://html5book.ru/css3-transition/
+12:05:24 От Starta University 1  кому  Все:
+	https://cubic-bezier.com/#.17,.67,.83,.67
+12:06:44 От Starta University 1  кому  Все:
+	В HTML трансформируемый элемент это: элемент с display: block; и display: inline-block;
+12:07:55 От Starta University 1  кому  Все:
+	https://html5book.ru/css3-transform/
+12:13:05 От Starta University 1  кому  Все:
+	Задание. Используя псевдокласс hover и transform сделайте так, чтобы при наведении на картинку появлялась тень, и она делала полный оборот (360 градусов), и показать красивый результат с помощью transition.
+12:23:19 От Элина Сиротина  кому  Все:
+	+
+12:23:19 От Alexey Vershinin  кому  Все:
+	+
+12:23:22 От Evgenia Stamatova  кому  Все:
+	+
+12:23:22 От Mark  кому  Все:
+	+
+12:23:24 От Alina Jakuhina  кому  Все:
+	+
+12:23:29 От Ilias Martis (temp)  кому  Все:
+	Еще ненмого и мы будем Фронтенд Аниматорами )))
+12:23:44 От Элина Сиротина  кому  Все:
+	Точно:))
+12:29:35 От Starta University 1  кому  Все:
+	Задание. Добавьте стили для формы, чтобы при активации input элемента у него появлялась тень. А при наведении курсора на кнопку она должна становиться немного больше и другого цвета.
+12:43:40 От Starta University 1  кому  Все:
+	.newinput{	    border: 1px solid black;	    width: 300px;	    height: 60px;	    font-size: 18px;	    padding: 0 10px;	}		.click{	    display: block;	    background-color: mediumpurple;	    width: 300px;	    height: 40px;	    border: none;	    font-size: 20px;	    margin: 10px 0;	}
+12:49:28 От Katja  кому  Все:
+	+
+12:49:49 От Starta University 1  кому  Все:
+	https://docs.google.com/forms/d/e/1FAIpQLSehHaZT7RN_ruRzjPdX2X6YvfS0qNN1R7ULnWfBXoEhGdgrvw/viewform
+12:50:24 От Элина Сиротина  кому  Все:
+	+
+12:52:36 От Ilias Martis (temp)  кому  Все:
+	http://htmlbook.ru/css
+12:52:51 От Ilias Martis (temp)  кому  Все:
+	Лучшая шпаргалка, там все! и по русски!
+12:53:17 От Starta University 1  кому  Все:
+	https://html5book.ru/
